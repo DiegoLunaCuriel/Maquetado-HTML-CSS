@@ -1,0 +1,46 @@
+h1 {
+    color:dimgrey
+    /*border: 5px  black dashed;*/
+}
+h2{
+    color: black;
+}
+
+#name{
+    color:darkslategrey
+    border: 5px black currentColor;
+}
+.Img {
+    width: 30%;
+}
+
+body {
+    background-color: rgb(221, 194, 160);
+ }
+
+#contenedorFoto{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    float: left;
+    background-color: var(--blue);
+    
+}
+#contenedorNombre{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    text-align: center;
+    background-color: var(--blue);
+}
+.estiloContenedores{
+    margin-top: 10px;
+    padding-left: 20px;
+    color:rgb(206, 159, 98);
+    border-style:dashed;
+}
+
+p{
+
+    color:black 
+ }
